@@ -1,0 +1,6 @@
+Thanks for checking out version 2!
+
+Allow for the ability to hit a custom hotkey and change a certain side of the face!
+
+How to use:
+Check config.json for use and sample

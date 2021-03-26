@@ -1,0 +1,29 @@
+{
+     "Configs": {
+        "PlaneSize": 75,
+        "WindowSize": [500,500],
+        "Offset": [0,0],
+        "Background": [255,255,255],
+        "ShowPoints": 0,
+        "Lines": [0,0,0],
+        "Reducer": 7,
+        "Speed": 0.5,
+        "ShowMouse": 1
+    },
+    "FileNames": {
+        "Top": "Top.png",
+        "Left": "Left.png",
+        "Front": "Front.png",
+        "Right": "Right.png",
+        "Bottom": "Bottom.png",
+        "Back": "Back.png"
+    },
+    "Custom": {
+        "Sample": {
+            "Hotkey": "c",
+            "AffectedPlane": "Front",
+            "Filename": "Front.png",
+            "Duration": 3
+        }
+    }
+}
